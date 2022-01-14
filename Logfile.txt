@@ -1,0 +1,5 @@
+Logfile
+
+Jan 13
+today i worked on JS in sketch.js file
+- worked on learning different funtions, such as the map() and rotate(), with the walker example
