@@ -3,3 +3,7 @@ Logfile
 Jan 13
 today i worked on JS in sketch.js file
 - worked on learning different funtions, such as the map() and rotate(), with the walker example
+
+Jan 20 
+manipulated the extension-demo from the EECS_1720 repo
+- created a simple sketchpad popup extension with the help of the p5.js library

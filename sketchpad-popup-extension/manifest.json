@@ -5,11 +5,11 @@
   "permissions": ["activeTab"],
 
   "browser_action": {
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": {
-      "16": "img/icon16.png",
-      "32": "img/icon32.png",
-      "48": "img/icon48.png"
+      "16": "img/sp.png",
+      "32": "img/sp.png",
+      "48": "img/sp.png"
     }
   },
 
@@ -19,6 +19,6 @@
     ],
     "js": ["program.js"]
   }],
-  
+
   "manifest_version": 2
 }
