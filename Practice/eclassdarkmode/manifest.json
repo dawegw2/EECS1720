@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "My Extension",
+    "description": "",
+    "version": "1.0",
+
+    "content_scripts": [{
+        "matches": [
+          "https://eclass.yorku.ca/*"
+        ],
+        "js": ["program.js"]
+      }]
+
+}
