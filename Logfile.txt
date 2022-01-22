@@ -9,4 +9,4 @@ manipulated the extension-demo from the EECS_1720 repo
 - created a simple sketchpad popup extension with the help of the p5.js library
 
 Jan 21
-attempted creating a dark mode extension for the eclass website 
+attempted creating a dark mode extension for the eclass website (did not finish) 
