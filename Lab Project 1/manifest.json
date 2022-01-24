@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+
+    "name": "Font Changer Extension",
+    "description": "",
+    "version": "1.0",
+
+    "content_scripts": [{
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": ["program.js"]
+      }], 
+
+      "browser_action": {
+        "default_icon": "letterf.png",
+        "default_popup": "popup.html",
+        "default_title": "Font Changer"
+      }
+}

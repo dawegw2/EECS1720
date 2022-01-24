@@ -7,7 +7,7 @@
 
     "content_scripts": [{
         "matches": [
-          "https://eclass.yorku.ca/*"
+          "https://eclass.yorku.ca/*", "<all_urls>"
         ],
         "js": ["program.js"]
       }], 
