@@ -10,3 +10,12 @@ manipulated the extension-demo from the EECS_1720 repo
 
 Jan 21
 attempted creating a dark mode extension for the eclass website (did not finish) 
+
+Jan 22
+worked script sending and recieving messaging for the dark mode extension (created a background.js script)
+
+Jan 23
+Created a font changing extension to hand in for my Lab Project 1 
+
+
+
