@@ -5,10 +5,12 @@ function receivedMessage(message, sender, response) {
   
     let data = document.getElementsByTagName("body");
     for (let i = 0; i < data.length; i++) {
-        data[i].style['font-family'] = message;
-        //data[i].style['background-color'] = '#121212';
+        data[i].style['font-family'] = message; //change font to recieved font 
+        data[i].style['font-size'] = message + "px"; //change font size 
+        data[i].style['color'] = message;
     }
 }
+
 
 
 

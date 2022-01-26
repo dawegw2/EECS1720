@@ -5,6 +5,32 @@
     color: white;
 }
 
+#mySlider {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    background: grey;
+    height: 7px;
+    opacity: 0.5;
+}
+
+#mySlider:hover {
+    opacity: 0.75;
+}
+
+#mySlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 25%;
+    background: #FAF9F6;
+  }
+
+
+.slidecontainer {
+    padding-top: 10px;
+}
+
 option:hover {
     color: black;
     background-color: grey;
@@ -15,7 +41,8 @@ body {
     padding: 10px;
     border-radius: 8px;
     background-color: #191919;
-    color: white;
+    color: rgb(243, 235, 225);
     text-align: center;
 }
+
 
