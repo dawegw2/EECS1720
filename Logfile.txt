@@ -17,5 +17,8 @@ worked script sending and recieving messaging for the dark mode extension (creat
 Jan 23
 Created a font changing extension to hand in for my Lab Project 1 
 
+Jan 24
+Added color and font changing options to font extension 
+
 
 
