@@ -36,6 +36,24 @@ option:hover {
     background-color: grey;
 }
 
+.colorpicker {
+    padding-top: 10px;
+}
+
+#colorChanger {
+    background-color: grey;
+    border-radius: 15%;
+}
+
+#colorChanger:hover {
+    opacity: 0.75;
+    
+}
+
+label {
+    padding-bottom: 15px;
+}
+
 body {
     border: double;
     padding: 10px;

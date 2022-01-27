@@ -1,3 +1,4 @@
+/*
 chrome.browserAction.onClicked.addListener(clickedButton);
 
 function clickedButton() {
@@ -7,4 +8,19 @@ function clickedButton() {
     });
 
 }
+*/
+
+//const element = document.getElementsByTagName('body');
+
+let x = document.getElementsByTagName("body")[0].id;
+
+//alert(window.getComputedStyle(x).getPropertyValue('font-family'));
+
+
+//const style = getComputedStyle(Element, pseudoElement);
+const element = document.querySelector("body");
+const style = getComputedStyle(element);
+
+const backgroundColor = style.backgroundColor;
+console.log(backgroundColor);
 

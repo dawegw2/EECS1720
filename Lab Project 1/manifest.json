@@ -12,6 +12,10 @@
         "js": ["program.js"]
       }], 
 
+      "background": {
+        "scripts": ["background.js"]
+      },
+
       "browser_action": {
         "default_icon": "letterf.png",
         "default_popup": "popup.html",
